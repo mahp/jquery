@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mahp/jquery.svg?branch=master)](https://travis-ci.org/mahp/jquery)
+
 jQuery — New Wave JavaScript
 ==================================================
 
