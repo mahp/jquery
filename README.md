@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/mahp/jquery.svg?branch=master)](https://travis-ci.org/mahp/jquery)
+[![Coverage Status](https://coveralls.io/repos/github/mahp/jquery/badge.svg?branch=master)](https://coveralls.io/github/mahp/jquery?branch=master)
 
 jQuery — New Wave JavaScript
 ==================================================
